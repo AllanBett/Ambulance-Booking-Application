@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "641734559043",
+    "firebase_url": "https://ambulance-booking-c21d0.firebaseio.com",
+    "project_id": "ambulance-booking-c21d0",
+    "storage_bucket": "ambulance-booking-c21d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641734559043:android:074400367095ed8c",
+        "android_client_info": {
+          "package_name": "com.example.ambulence_booking_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "641734559043-qd4crffglidgkif3fm0fp32gv6p1tecl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ambulence_booking_app",
+            "certificate_hash": "3226d12177a4d44affb9f461d97fcebbc6791f54"
+          }
+        },
+        {
+          "client_id": "641734559043-dn5u3rt5ffpcsonfmppe5t6n4l37v5h2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRc2QeOSAnieRnieGOoYDlI1PHcv5F0yQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "641734559043-dn5u3rt5ffpcsonfmppe5t6n4l37v5h2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641734559043:android:812735f632d7af83",
+        "android_client_info": {
+          "package_name": "com.project.sih.ambulencebookingapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "641734559043-0agqpqmhaofa7csb24l4id0ho5mi3p3d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.project.sih.ambulencebookingapplication",
+            "certificate_hash": "3226d12177a4d44affb9f461d97fcebbc6791f54"
+          }
+        },
+        {
+          "client_id": "641734559043-dn5u3rt5ffpcsonfmppe5t6n4l37v5h2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRc2QeOSAnieRnieGOoYDlI1PHcv5F0yQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "641734559043-dn5u3rt5ffpcsonfmppe5t6n4l37v5h2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
